@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React-Notes-App
+A user-friendly React web application for managing your notes effortlessly. Create, search, and delete notes with ease. Customize your experience with a sleek dark mode and light mode toggle. Perfect for staying organized and productive.
+
+
+## Features
+
+- **Add New Notes:** Quickly jot down important ideas, thoughts, or reminders with ease.
+
+- **Search Notes:** Find notes based on matching search statements within the notes' text.
+
+- **Toggle Between Dark and Light Modes:** Choose the theme that suits your mood and preference.
+
+
+
+
+>>>>>>> 2ee4e706d880c43005006bffff62e3d96be2e1d0
